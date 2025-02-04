@@ -1,4 +1,4 @@
-
+SECURITY.md
 # Git Credential Manager
 
 [![Build Status][build-status-badge]][workflow-status]
