@@ -1,4 +1,4 @@
-
+text: 67b458f49060df494397b2c1
 # Git Credential Manager
 
 [![Build Status][build-status-badge]][workflow-status]
